@@ -13,6 +13,8 @@
 		A7CA68861A644D31008E65D7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7CA68851A644D31008E65D7 /* Images.xcassets */; };
 		A7CA68891A644D31008E65D7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A7CA68871A644D31008E65D7 /* LaunchScreen.xib */; };
 		A7CA68951A644D31008E65D7 /* This_is_ItTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CA68941A644D31008E65D7 /* This_is_ItTests.swift */; };
+		A7CA689F1A644E08008E65D7 /* 3031477-nealadamsbatman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A7CA689E1A644E08008E65D7 /* 3031477-nealadamsbatman.jpg */; };
+		A7CA68A11A644E0E008E65D7 /* The_Batman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A7CA68A01A644E0E008E65D7 /* The_Batman.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		A7CA688E1A644D31008E65D7 /* This is ItTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "This is ItTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7CA68931A644D31008E65D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A7CA68941A644D31008E65D7 /* This_is_ItTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = This_is_ItTests.swift; sourceTree = "<group>"; };
+		A7CA689E1A644E08008E65D7 /* 3031477-nealadamsbatman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "3031477-nealadamsbatman.jpg"; sourceTree = "<group>"; };
+		A7CA68A01A644E0E008E65D7 /* The_Batman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = The_Batman.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		A7CA687C1A644D31008E65D7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A7CA68A01A644E0E008E65D7 /* The_Batman.jpg */,
+				A7CA689E1A644E08008E65D7 /* 3031477-nealadamsbatman.jpg */,
 				A7CA687D1A644D31008E65D7 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,8 +199,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7CA68841A644D31008E65D7 /* Main.storyboard in Resources */,
+				A7CA689F1A644E08008E65D7 /* 3031477-nealadamsbatman.jpg in Resources */,
 				A7CA68891A644D31008E65D7 /* LaunchScreen.xib in Resources */,
 				A7CA68861A644D31008E65D7 /* Images.xcassets in Resources */,
+				A7CA68A11A644E0E008E65D7 /* The_Batman.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
